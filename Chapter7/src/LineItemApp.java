@@ -1,7 +1,7 @@
 // Author: Diyang Qiu
 // Date: June 1st
 // Purpose: classes funtions
-// Page:3 LineItemApp class
+// Page:3 LineItemApp class////!!!!!!!!!!!!!!!!
 
 import java.util.Scanner;
 
